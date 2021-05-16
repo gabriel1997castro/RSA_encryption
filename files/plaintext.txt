@@ -1,0 +1,1 @@
+O teste Miller-Rabin (por Gary Miller e Michael Rabin) é um teste probabilístico da primitividade de um dado número n. Se um número n não passar pelo teste, n com certeza é um número composto (ou seja, não-primo). Se o número passar no teste, ele é primo, com uma probabilidade P >= 0,75, sendo que P denomina o conjunto de todos números primos.
